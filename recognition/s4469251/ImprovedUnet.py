@@ -1,7 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+'''
+    File name: ImprovedUnet.py
+    Author: Wenjun Zhang
+    Date last modified: 25/11/2020
+    Python Version:3.7
+    File description: improved unet 
+'''
 
 
 import tensorflow as tf
